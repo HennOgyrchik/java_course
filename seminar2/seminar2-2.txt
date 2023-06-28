@@ -1,0 +1,5 @@
+.idea
+out
+seminar2-1.txt
+seminar2.iml
+src
